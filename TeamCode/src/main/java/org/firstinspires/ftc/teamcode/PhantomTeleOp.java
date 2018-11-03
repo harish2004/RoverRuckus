@@ -7,7 +7,7 @@ import com.qualcomm.robotcore.util.Range;
 
 
 @TeleOp(name="Phantom Teleop",group="Teleop")
-public class PhantomTeleop extends OpMode {
+public class PhantomTeleOp extends OpMode {
     PhantomConfig robot = new PhantomConfig();
 
     @Override
